@@ -7,11 +7,11 @@ Hello, I am a B.Tech graduate from IIT Gandhinagar (2025), holding a Major in Ma
 * **Research Assistant Intern** — Georgia Tech FSIL
 * **Data Science Intern** — Universidade Federal de Goiás
 
-### 🧠 Core Interests & Executed Work
-* **Algorithmic Trading & Systems:** Developing dynamic, regime-based trading systems and real-time options strategy applications.
-* **Financial NLP & LLMs:** Building scalable text-processing pipelines, fine-tuning Transformers for entity extraction, and engineering structured alpha features from research reports.
-* **Time Series Analysis:** Decomposing macro market data, implementing anomaly detection, and building multivariate forecasting models.
-* **Quantitative Modeling:** Remodeling options pricing frameworks (e.g., Black-Scholes) and constructing alpha features from alternative datasets.
+### 🧠 What I Do
+* **Algorithmic Trading:** Building dynamic, regime-adaptive trading systems and real-time options tools.
+* **Financial NLP & LLMs:** Fine-tuning models to extract actionable alpha and structured data from massive financial text.
+* **Time Series & Forecasting:** Analyzing macro market data, detecting anomalies, and building predictive models.
+* **Quant Modeling:** Constructing alpha features from alternative data and remodeling options pricing frameworks like Black-Scholes.
 
 ### 🛠️ Technical Arsenal
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
